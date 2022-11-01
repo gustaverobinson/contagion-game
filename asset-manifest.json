@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/contagion-game/static/css/main.aae52b32.css",
-    "main.js": "/contagion-game/static/js/main.cd67b748.js",
+    "main.js": "/contagion-game/static/js/main.5a869477.js",
     "static/js/787.0e1390f3.chunk.js": "/contagion-game/static/js/787.0e1390f3.chunk.js",
     "static/media/CardBackgroundOnly.jpg": "/contagion-game/static/media/CardBackgroundOnly.62f40759881a8eaf123c.jpg",
     "index.html": "/contagion-game/index.html",
     "main.aae52b32.css.map": "/contagion-game/static/css/main.aae52b32.css.map",
-    "main.cd67b748.js.map": "/contagion-game/static/js/main.cd67b748.js.map",
+    "main.5a869477.js.map": "/contagion-game/static/js/main.5a869477.js.map",
     "787.0e1390f3.chunk.js.map": "/contagion-game/static/js/787.0e1390f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aae52b32.css",
-    "static/js/main.cd67b748.js"
+    "static/js/main.5a869477.js"
   ]
 }
