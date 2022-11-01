@@ -1,0 +1,8 @@
+{
+    "listOfSymptoms": [
+        "coughing blood", "dry cough", "high fever", "inflammation under eye", "itching", "itching eyes", "light cough", "light fever", "moderate congestion", "moderate fever", "nasal congestion", "severe congestion", "wet cough", "sweating", "slight limp", "swollen eyelid", "eye discharge", "mild shortness of breath", "jaundice", "unkept hair", "pallor", "red, blotchy rash", "underweight", "labored breathing", "swollen neck glands"
+    ], 
+    "severityOfSymptoms": [
+        "3", "2", "3", "3", "3", "2", "1", "1", "2", "2", "1", "2", "2", "1", "1", "3", "3", "1", "2", "1", "1", "3", "1", "2", "3"
+    ]
+}

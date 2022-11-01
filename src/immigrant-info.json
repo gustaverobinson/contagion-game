@@ -1,0 +1,807 @@
+{
+    "characters" : [
+        {
+            "Name": "Babette Anmuller",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Husband, daughter"
+        },
+        {
+            "Name": "Sanne Pedersen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, daughter"
+        },
+        {
+            "Name": "Louisa Olsen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, daughter"
+        },
+        {
+            "Name": "Suzanne Ziegler",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Husband, infant son"
+        },
+        {
+            "Name": "Emilie Gotze",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Husband, infant son"
+        },
+        {
+            "Name": "Amanda Trondsen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, infant son"
+        },
+        {
+            "Name": "Erling Pedersen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, infant son"
+        },
+        {
+            "Name": "Jeannette Odegaard",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, infant son"
+        },
+        {
+            "Name": "Amanda Pedersen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, infant son"
+        },
+        {
+            "Name": "Marko Romanov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, infant son"
+        },
+        {
+            "Name": "Maria Pavlou",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Husband, son, daughter"
+        },
+        {
+            "Name": "Karna Larsen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, son, daughter"
+        },
+        {
+            "Name": "Mario Haas",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Wife, daughter"
+        },
+        {
+            "Name": "Demetrio Pappas",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife, daughter, son"
+        },
+        {
+            "Name": "Costas Papadimitriou",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife, daughter, son"
+        },
+        {
+            "Name": "Costas Gioulos",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife, daughter, son"
+        },
+        {
+            "Name": "Ivan Teodorov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, daughter, son"
+        },
+        {
+            "Name": "Peter Kirilenko",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, daughter, son"
+        },
+        {
+            "Name": "Aleksey Nikiforov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, daughter, son"
+        },
+        {
+            "Name": "Erik Hansen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Wife, infant daughter"
+        },
+        {
+            "Name": "Piotr Sczesny",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, infant daughter"
+        },
+        {
+            "Name": "Frank Reus",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Wife, infant son"
+        },
+        {
+            "Name": "Theofanis Manos",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife, infant son"
+        },
+        {
+            "Name": "Marko Teodorov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, infant son"
+        },
+        {
+            "Name": "Vasilios Gioulos",
+            "Nationality": "Greece",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife, son"
+        },
+        {
+            "Name": "Albert Lutz",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Wife, two daughters"
+        },
+        {
+            "Name": "Albert Muller",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Wife, two sons"
+        },
+        {
+            "Name": "Demetrios Petrou",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife, two sons"
+        },
+        {
+            "Name": "Ivan Romanov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, two sons"
+        },
+        {
+            "Name": "Ivan Romanov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, two sons"
+        },
+        {
+            "Name": "Gregah Alan Roughead",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Linda Wright",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Stephan Fairlie",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Anita Lower",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Gordon Stewart",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Susan Dungworth",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Sandra Graham",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Husband"
+        },
+        {
+            "Name": "Margaret Hall",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Son"
+        },
+        {
+            "Name": "Gary Bell",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Son, daughter"
+        },
+        {
+            "Name": "Clare Penny-Evans",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Father"
+        },
+        {
+            "Name": "Alistair Chisholm",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Father"
+        },
+        {
+            "Name": "Mark David Swinburn",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Jeffrey George Watson",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Ray Glindon",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Debbie Cox",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Mother"
+        },
+        {
+            "Name": "Martin Rankin",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Norma Redfearn",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Son"
+        },
+        {
+            "Name": "Glen Sanderson",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Daughter"
+        },
+        {
+            "Name": "Bruce Pickard",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Wife, father"
+        },
+        {
+            "Name": "Joyce McCarty",
+            "Nationality": "England",
+            "Port of Origin": "Grimsby, England",
+            "Traveling with": "Husband, son"
+        },
+        {
+            "Name": "Valentin Abel",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Three sons"
+        },
+        {
+            "Name": "Knut Abraham",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Daughter"
+        },
+        {
+            "Name": "Katja Adler",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Uncle"
+        },
+        {
+            "Name": "Stephanie Aeffner",
+            "Nationality": "Germany",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Uncle "
+        },
+        {
+            "Name": "Stephan Albani",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Father"
+        },
+        {
+            "Name": "Gerd Ziegler",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Son"
+        },
+        {
+            "Name": "Suzanne Muller",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Husband, son"
+        },
+        {
+            "Name": "Renata Alt",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Husband"
+        },
+        {
+            "Name": "Philipp Amthor",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Luise Amtsberg",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Dagmar Andres",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Two cousins"
+        },
+        {
+            "Name": "Niels Annen",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Christine Aschenberg",
+            "Nationality": "Germany ",
+            "Port of Origin": "Bremen, Germany",
+            "Traveling with": "Son"
+        },
+        {
+            "Name": "Tonia Antoniou",
+            "Nationality": "Greece",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Son, two daughters"
+        },
+        {
+            "Name": "Costas Petrou",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Mother"
+        },
+        {
+            "Name": "Stavros Arachovitis",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Maria Athanasiou",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Husband, daughter"
+        },
+        {
+            "Name": "Haramlambos Athanasiou",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Apostolos Avdelas",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Husband"
+        },
+        {
+            "Name": "Lefteris Avengakis",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Mother"
+        },
+        {
+            "Name": "Alexandros Avlonitis",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Infant daughter"
+        },
+        {
+            "Name": "Fontas Baraliakos",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Tasos Bartzokas",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Infant son"
+        },
+        {
+            "Name": "Dimitris Biagis",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Son"
+        },
+        {
+            "Name": "Konstantinos Boubas",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Daughter"
+        },
+        {
+            "Name": "Ioannis Bougas",
+            "Nationality": "Greece ",
+            "Port of Origin": "Athens, Greece",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Elizabeth Pedersen",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Sister"
+        },
+        {
+            "Name": "Emma Solberg",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Brother"
+        },
+        {
+            "Name": "Sandra Borch",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Father"
+        },
+        {
+            "Name": "Ingvild Kjerkol",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Husband, two sons"
+        },
+        {
+            "Name": "Kjersti Toppe",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Espen Barth Eide",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Two brothers"
+        },
+        {
+            "Name": "Henrik Asheim",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Two cousins"
+        },
+        {
+            "Name": "Erlend Svardal Boe",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Jenny Klinge",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Johannes Klaebo",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Nikolai Astrip",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": "Cousin"
+        },
+        {
+            "Name": "Jonas Gahr Store",
+            "Nationality": "Norway",
+            "Port of Origin": "Bergen, Norway",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Ivan Rybkin",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Mother"
+        },
+        {
+            "Name": "Gennadiy Seleznyov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Boris Gryzlov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Infant son"
+        },
+        {
+            "Name": "Natalia Gundareva",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, daughter"
+        },
+        {
+            "Name": "Vyacheslav Volodin",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife, two sons"
+        },
+        {
+            "Name": "Daniil Bessarabov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Cousin"
+        },
+        {
+            "Name": "Ivan Loor",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Nikolay Govorin",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Wife"
+        },
+        {
+            "Name": "Ivan Demchenko",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": "Cousin"
+        },
+        {
+            "Name": "Vladimir Sinyagovsky",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Alexey Ezubov",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": ""
+        },
+        {
+            "Name": "Yury Shvytkin",
+            "Nationality": "Russia",
+            "Port of Origin": "Hamburg, Germany",
+            "Traveling with": ""
+        }   
+    ],
+    "shipNames" : [
+        "Calabria",
+        "La Champagne",
+        "Pemonte",
+        "Nancy",
+        "South Caroline Packet",
+        "La Savoie",
+        "Greyhound",
+        "Altai",
+        "Georgia",
+        "Pennsylvania",
+        "Benedict",
+        "Patricia",
+        "Gleaner",
+        "Jolanda",
+        "Hekla",
+        "Mesaba",
+        "Yucatan",
+        "Harriet",
+        "Niagara",
+        "Hippomenes",
+        "Umbria",
+        "Mongolian",
+        "Kronprinz Wilhelm",
+        "Mary",
+        "Breslau",
+        "Palatinia",
+        "Sardegna",
+        "Chauncy",
+        "Zulia",
+        "Furst Bismarck",
+        "La Touraine",
+        "Philadelphia",
+        "Casilda",
+        "Minnetonka",
+        "Moltke",
+        "Roma",
+        "Saint Louis",
+        "Citta di Torino",
+        "Sandfield",
+        "Numidian",
+        "Doris Brook",
+        "Vincenzo Florio",
+        "Hellig Olav",
+        "Brilliant",
+        "Aurania",
+        "Olinda",
+        "Bremen",
+        "Konigin Luise",
+        "Minneapolis",
+        "Prinzess Irene",
+        "Bovic",
+        "Palatia",
+        "Neckar",
+        "Etruria",
+        "Belita",
+        "Cassel",
+        "Pretoria",
+        "Massilia",
+        "Pocahontas",
+        "Finland",
+        "Capri",
+        "Comliebank",
+        "Terence",
+        "Statendam",
+        "Saratoga",
+        "Silvia",
+        "Kroonland",
+        "Minnehaha",
+        "Indiana",
+        "Kaiser Wilhelm II",
+        "Lombardia",
+        "Amsterdam",
+        "Adirondack",
+        "Graf Waldersee",
+        "Ethiopia",
+        "Lucania",
+        "Majestic",
+        "Rotterdom",
+        "Corinthian",
+        "Seriphos",
+        "Fricka",
+        "Prinz Adalbert",
+        "Hohenzollern",
+        "Blucher",
+        "Coya",
+        "Havre",
+        "Vaderland",
+        "Celtic",
+        "British Princess",
+        "Potsdam",
+        "Manitou",
+        "Saint Paul",
+        "Annie",
+        "Tjomo",
+        "Cevic",
+        "Lahn",
+        "Island",
+        "Byron",
+        "Vigilancia"
+    ],
+    "visibleSymptoms" : [
+        {
+          "symptoms": "coughing blood",
+          "severity": 3
+        },
+        {
+          "symptoms": "dry cough",
+          "severity": 2
+        },
+        {
+          "symptoms": "high fever",
+          "severity": 3
+        },
+        {
+          "symptoms": "inflammation under eye",
+          "severity": 3
+        },
+        {
+          "symptoms": "itching",
+          "severity": 3
+        },
+        {
+          "symptoms": "itching eyes",
+          "severity": 2
+        },
+        {
+          "symptoms": "light cough",
+          "severity": 1
+        },
+        {
+          "symptoms": "light fever",
+          "severity": 1
+        },
+        {
+          "symptoms": "moderate congestion",
+          "severity": 2
+        },
+        {
+          "symptoms": "moderate fever",
+          "severity": 2
+        },
+        {
+          "symptoms": "nasal congestion",
+          "severity": 1
+        },
+        {
+          "symptoms": "severe congestion",
+          "severity": 2
+        },
+        {
+          "symptoms": "wet cough",
+          "severity": 2
+        },
+        {
+          "symptoms": "sweating",
+          "severity": 1
+        },
+        {
+          "symptoms": "slight limp",
+          "severity": 1
+        },
+        {
+          "symptoms": "swollen eyelid",
+          "severity": 3
+        },
+        {
+          "symptoms": "eye discharge",
+          "severity": 3
+        },
+        {
+          "symptoms": "mild shortness of breath",
+          "severity": 1
+        },
+        {
+          "symptoms": "jaundice",
+          "severity": 2
+        },
+        {
+          "symptoms": "unkept hair",
+          "severity": 1
+        },
+        {
+          "symptoms": "pallor",
+          "severity": 1
+        },
+        {
+          "symptoms": "red, blotchy rash",
+          "severity": 3
+        },
+        {
+          "symptoms": "underweight",
+          "severity": 1
+        },
+        {
+          "symptoms": "labored breathing",
+          "severity": 2
+        },
+        {
+          "symptoms": "swollen neck glands",
+          "severity": 3
+        }
+       ]
+}

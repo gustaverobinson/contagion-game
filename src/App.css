@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.left-align-text {
+  text-align: left;
+}
+
+p {
+  padding: 0 1vw 0 1vw;
+  font-size: 1.25rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-image: url("./CardBackgroundOnly.jpg");
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: Lucida Bright,Georgia,serif; 
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h2, h3{
+  margin-block-start: 0em;
+  margin-block-end: .1em;
+  font-weight: bold;
+}
+
+.immigration-card-container {
+  padding: 3vh 0 5vh 0;
+}
+
+.inspection-card-col {
+  text-align: left;
+}
+
+.inspection-card-row {
+  border: thick solid black;
+}
+
+.symptom-row {
+  border: thin solid black;
+}
+
+button{
+  margin-bottom: 1vh;
+  background-color: lightgray;
+  border: none;
+}
+
+.entry-button:hover {
+  background-color: lightgreen;
+  border-radius: .25rem;
+  box-shadow: .1em .1em 0 0;
+}
+
+.quarantine-button:hover {
+  background-color: lightpink;
+  border-radius: .25rem;
+  box-shadow: .1em .1em 0 0;
+}
+
+.other-button {
+  font-size: .75rem;
+}
+
+.other-button:hover {
+  background-color: lightcyan;
+  border-radius: .25rem;
+  box-shadow: .1em .1em 0 0;
+}
+
+.bolded {
+  font-weight: bold;
+}
+
+.written-text {
+  font-family: "Comic Neue", "Comic Sans MS", "Chalkboard SE", sans-serif;
+}
+
+.results-container {
+  background-color: white;
+}
+
+.extra-padding {
+  padding: 3vh 0;
+}
